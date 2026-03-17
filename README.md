@@ -1,2 +1,2 @@
 # AI-Robot
-This is the project about AI Robot Class
+This is the project of AI Robot Class

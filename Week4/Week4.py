@@ -16,7 +16,7 @@ class SquareMover(Node):
         super().__init__('square_mover')
 
         # 创建发布者
-        self.cmd_vel_pub = selfs.create_publisher(
+        self.cmd_vel_pub = self.create_publisher(
             Twist, 
             '/turtle1/cmd_vel', 
             10

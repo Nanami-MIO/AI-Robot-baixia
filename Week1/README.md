@@ -13,8 +13,8 @@
 - [x] OpenCLAW (可选)
 ## 运行结果
 - Python: `python --version` 截图
-![Python3 Version](..image/img1-2.png "Python3 Version")
+![Python3 Version](../image/img1-2.png "Python3 Version")
 - ROS2: Turtlesim 截图
-![Turtlesim](..image/img1-3.png "Turtlesim")
+![Turtlesim](../image/img1-3.png "Turtlesim")
 - OpenCLAW: OpenCLAW 截图  
-![OpenCLAW onboard](..image/img1-1.png "OpenCLAW")
+![OpenCLAW onboard](../image/img1-1.png "OpenCLAW")

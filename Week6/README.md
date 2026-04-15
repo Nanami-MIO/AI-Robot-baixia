@@ -1,3 +1,1 @@
-# AI-Robot-Bai Xia
-#
-
+# AI机器人课程 - 第6周作业

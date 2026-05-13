@@ -8,8 +8,7 @@ description: AI Robotics 课程作业整理
 # theme: jekyll-theme-cayman
 # theme: jekyll-theme-minimal
 # theme: jekyll-theme-slate
-# theme: jekyll-theme-architect
-theme: jekyll-theme-modernist
+theme: jekyll-theme-architect
 
 # 显示下载按钮（可选）
 show_downloads: false

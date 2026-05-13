@@ -1,5 +1,26 @@
-# AI-Robot-Bai Xia
-## 基本信息
-- 姓名: 白夏
-- 学号: 20231913
+# AI 机器人课程作业
 
+本仓库整理了有关 AI Robotics 课程的每周作业和实验笔记。
+
+## 课程作业目录
+
+- [Week 2：WSL、Ubuntu 与 ROS2 环境配置](Week2/)
+- [Week 3：GitHub SSH、VS Code 与 ROS2 交互](Week3/)
+- [Week 4：命令行、机器人基础与 Python 仿真](Week4/)
+- [Week 5：Linux 目录操作与机器人运动学](Week5/)
+- [Week 6：传感器介绍与 ROS2 KITTI 实验](Week6/)
+- [Week 7：Markdown 与 GitHub 作业整理](Week7/)
+- [Week 8：Docker 安装与 ROS2 桌面容器](Week8/)
+- [Week 10：Docker 概念与 OpenCV 实验](Week10/)
+
+## 关于我
+
+- 姓名：白夏
+- 学号：20231913
+- 专业：软件工程系
+
+## 项目说明
+
+本项目使用 GitHub Pages 部署。
+
+在线访问：[https://nanami-mio.github.io/AI-Robot-baixia/](https://nanami-mio.github.io/AI-Robot-baixia/)

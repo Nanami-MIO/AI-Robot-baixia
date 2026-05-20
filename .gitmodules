@@ -1,0 +1,6 @@
+[submodule "AI-Robot-baixia"]
+	path = AI-Robot-baixia
+	url = https://github.com/Nanami-MIO/AI-Robot-baixia
+[submodule "week13"]
+	path = week13
+	url = https://github.com/Nanami-MIO/week13.git

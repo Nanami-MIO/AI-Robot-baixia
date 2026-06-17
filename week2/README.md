@@ -1,4 +1,4 @@
-﻿# Week 2：WSL、Ubuntu 与 ROS2 环境配置
+# Week 2：WSL、Ubuntu 与 ROS2 环境配置
 
 本周主要完成 AI 机器人课程的基础开发环境搭建。机器人课程后续会频繁使用 Linux 命令行、Python、ROS2 和 turtlesim，因此 Week 2 的重点是让电脑具备可运行 ROS2 实验的基础条件，并确认常用工具可以正常启动。
 
@@ -43,12 +43,6 @@ python3 week2_environment_check.py
 ![Turtlesim](img2-3.png)
 
 ![OpenCLAW onboard](img2-1.png)
-
-## 演示视频
-
-本周演示视频记录了截图对应的环境、命令或实验效果，便于在 GitHub Pages 中和截图一起检查作业完成情况。
-
-[点击查看本周演示视频](demo.mp4)
 
 ## 课程内容摘要
 

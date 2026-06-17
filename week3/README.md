@@ -1,4 +1,4 @@
-﻿# Week 3：GitHub SSH、VS Code 与 ROS2 命令行交互
+# Week 3：GitHub SSH、VS Code 与 ROS2 命令行交互
 
 本周在 Week 2 的环境基础上继续练习开发工具链。主要内容包括 GitHub SSH 配置、VS Code 连接 WSL、Git 基本提交流程，以及 ROS2 命令行对 turtlesim 的控制和观察。目标是让代码编辑、版本管理和 ROS2 调试形成一个顺畅的工作流程。
 
@@ -45,12 +45,6 @@ python3 week3_git_ros_notes.py
 ![小乌龟直线前进轨迹](img3-3.png)
 
 ![小乌龟位置监听](img3-2.png)
-
-## 演示视频
-
-本周演示视频记录了截图对应的环境、命令或实验效果，便于在 GitHub Pages 中和截图一起检查作业完成情况。
-
-[点击查看本周演示视频](demo.mp4)
 
 ## 课程内容摘要
 

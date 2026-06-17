@@ -38,11 +38,6 @@ python3 opencv.py
 
 ![OpenCV result](img10-3.png)
 
-## 演示视频
-
-本周演示视频记录了截图对应的环境、命令或实验效果，便于在 GitHub Pages 中和截图一起检查作业完成情况。
-
-[点击查看本周演示视频](demo.mp4)
 
 ## 课程内容摘要
 
